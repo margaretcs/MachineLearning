@@ -24,4 +24,4 @@ This project demonstrates the application of machine learning techniques using *
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/machine-learning-jupyter-notebook.git
+   git clone https://github.com/margaretcs/MachineLearning.git
